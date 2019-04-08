@@ -1,0 +1,6 @@
+en:
+  email_subjects: 'Email-Betreffzeilen'
+  issue_add_subject: 'Betreff für neue Aufgaben'
+  issue_edit_subject: 'Betreff für aktualisierte Aufgaben' 
+  settings_replace_fields_text: 'Im Betreff werden die folgenden Variablen ersetzt:'
+
